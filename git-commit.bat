@@ -4,6 +4,7 @@ chcp 65001
 git add . 
 git commit -m "-"
 git push -u origin master
+git push -u origin2 master
 
 ehco will exit!
 
